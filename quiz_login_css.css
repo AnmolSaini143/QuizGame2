@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    font-family: papyrus;
+    font-weight: bold;
+    border-style: solid;
+    border-radius: 5px;
+    margin-top: 10px;
+    border-color: teal;
+    color: white;
+}
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+input {
+    border-style:dotted;
+    border-color: teal;
+}
+
+loginbutton {
+    font-size: 20px;
+    margin-top: 10px;
+}
